@@ -1,0 +1,17 @@
+/* pattern states! */
+.sg-pattern-state.proposed::before {
+  color: #00AEDD !important;
+}
+.sg-pattern-state.alpha::before {
+  color: #DB9C00 !important;
+}
+.sg-pattern-state.beta::before {
+  color: #0048A6 !important;
+}
+.sg-pattern-state.recommended::before {
+  color: #669C00 !important;
+}
+.sg-pattern-state.deprecated {
+  color: #D20000 !important;
+}
+

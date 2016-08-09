@@ -733,7 +733,6 @@ $sg-border-radius-med : 6px;
 
 
 
-
 /*------------------------------------*\
 #PATTERN LAB VIEWPORT
 \*------------------------------------*/
@@ -1505,3 +1504,6 @@ $sg-border-radius-med : 6px;
         margin-bottom: 0.25em;
     }
 }
+
+
+@import "customizations.scss"
